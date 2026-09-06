@@ -1,4 +1,4 @@
-package week_1_class_problems;
+package week_1_practice_problems;
 
 import java.util.Random;
 import java.util.Scanner;
